@@ -1,0 +1,9 @@
+.containerPagination {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.arrow {
+    font-size: 16px;
+}
